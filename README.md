@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isadev777
 - 👀 I’m interested in .lua and .html
-- 🌱 I’m currently learning on school
+- 🌱 I’m currently learning in school
 - 📫 DISCORD: 777izza
 
 <!---
