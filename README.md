@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isadev777
+- 👋 Hi, I’m @isadev777 Five:M DEV from estonia
 - 👀 I’m interested in .lua and .html
 - 🌱 I’m currently learning in school
 - 📫 DISCORD: 777izza
